@@ -1,2 +1,2 @@
 # TheLabSourceScripts
-Bunch of scripts used in the game "TheLab"
+Bunch of scripts I made for my game "TheLab"
