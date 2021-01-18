@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c0de8e171514d48828153245d21e9220
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerModel: {instanceID: 0}
+  - red: {fileID: 1180960996234649569, guid: 823c4a12f73a64b83951f8e09b88e43f, type: 3}
+  - orange: {fileID: 1180005797036002599, guid: 823c4a12f73a64b83951f8e09b88e43f,
+      type: 3}
+  - yellow: {fileID: -6296279392369171999, guid: 823c4a12f73a64b83951f8e09b88e43f,
+      type: 3}
+  - green: {fileID: 2489785783468791812, guid: 823c4a12f73a64b83951f8e09b88e43f, type: 3}
+  - blue: {fileID: -3893949217723987242, guid: 823c4a12f73a64b83951f8e09b88e43f, type: 3}
+  - purple: {fileID: 3794731916337406650, guid: 711953e4f5d4d41ffbc890f1224044ab,
+      type: 3}
+  - Gold: {fileID: 2100000, guid: deef560d6ac1e4750a8f9e42aa3d8262, type: 2}
+  - Black: {fileID: 2100000, guid: 7fabc36e3ec774f39b6dfd5f581d0792, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
